@@ -1,7 +1,8 @@
 akamaihd.net
 akamaized.net
 amazonaws.com
-api.mixpanel.com
+# api.mixpanel.com violates our internal privacy policy, it shall remain blocked.
+# api.mixpanel.com
 avataaars.io
 azureedge.net
 bootstrapcdn.com
