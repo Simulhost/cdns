@@ -1,19 +1,12 @@
 akamaihd.net
 akamaized.net
 amazonaws.com
-# api.mixpanel.com violates our internal privacy policy, it shall remain blocked.
-# api.mixpanel.com
 avataaars.io
 azureedge.net
 bootstrapcdn.com
-# bugsnag.com violates our internal privacy policy, it shall remain blocked.
-# bugsnag.com
 cdn.changelog.com
 cdn.paddle.com
-# polyfill.com appears to be hijacked, it shall remain blocked.
-# cdn.polyfill.com
 cdn.polyfill.io
-# cdn.simulhost.com is used to serve internal assets and will never be blocked.
 cdn.simulhost.com
 cdnjs.cloudflare.com
 cloudfront.net
@@ -47,8 +40,6 @@ intercomassets.com
 intercomcdn.com
 kxcdn.com
 local.adguard.com
-# loggly.com violates our internal privacy policy, it shall remain blocked.
-# loggly.com
 media-amazon.com
 msecnd.net
 msedge.net
@@ -62,13 +53,9 @@ query.yahoo.com
 rackcdn.com
 raw.github.com
 raw.githubusercontent.com
-# raygun.io violates our internal privacy policy, it shall remain blocked.
-# raygun.io
 replies.io
 res.cloudinary.com
 scdn.co
-# sentry.io violates our internal privacy policy, it shall remain blocked.
-# sentry.io
 sndcdn.com
 ssl-images-amazon.com
 statuspage.io
